@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme colors -->
+    <color name="teal">#A7EACC</color>
+    <color name="dark_teal">#4DCC93</color>
+    <color name="peach">#FDDFAB</color>
+    <color name="dark_peach">#FFA70E</color>
+    <color name="purple">#A5B0F4</color>
+    <color name="dark_purple">#5A70F4</color>
+
+    <!-- Bottom navigation bar -->
+    <color name="bottom_navigation_view_inactive_item">#686868</color>
+    <color name="bottom_navigation_view_active_item">#2D36EF</color>
+
+    <!-- Common -->
+    <color name="divider">#DDDCDC</color>
+    <color name="gray">#EEEDED</color>
+    <color name="dark_gray">#D6D6D6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

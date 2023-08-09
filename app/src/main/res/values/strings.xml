@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Apoteka</string>
+
+    <!-- Bottom navigation bar -->
+    <string name="dashboard">Dashboard</string>
+    <string name="meds_register">Registar lijekova</string>
+    <string name="assistant">Asistent</string>
+    <string name="calculator">Kalkulator</string>
+    <string name="profile">Profil</string>
+
+    <!-- Meds register fragment -->
+    <string name="meds_registar_fragment_title">Registar lijekova</string>
+    <string name="meds_registar_fragment_search_hint">Search</string>
+
+    <!-- Meds register details fragment -->
+    <string name="meds_registar_details_fragment_title">Detalji lijeka</string>
+    <string name="meds_registar_details_fragment_active_substance">Aktivna\nsupstanca</string>
+    <string name="meds_registar_details_fragment_active_substance_selected_quantity">Omjer aktivne\nsupstance</string>
+    <string name="meds_registar_details_fragment_recommended_daily_dose">Preporučena\ndnevna doza</string>
+    <string name="meds_registar_details_fragment_active_substance_name">Supstanca nije poznata</string>
+
+    <!-- Errors -->
+    <string name="meds_registar_fragment_connection_error">Greška pri dohvatanju liste lijekova!</string>
+
+</resources>

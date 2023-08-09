@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Bottom navigation bar -->
+    <dimen name="active_item_text_size">10sp</dimen>
+    <dimen name="inactive_item_text_size">11sp</dimen>
+
+</resources>
